@@ -115,3 +115,20 @@
 > 「サブネットマスク」とくれば「＊ネットワーク部（サブネット部も含む）に1」「＊ホスト部に0」
 
 > 「IPv6」とくれば「IPアドレス128ビットで表現する」
+
+
+## 7-6 ネットワーク管理 ◎
+- **SDN**（Software Defined Networking）：ソフトウェアにより、ネットワーク機器を集中的に制御して、ネットワークの構成や設定を動的に変更する技術の総称
+- ネットワークの応用
+  - URL（Uniform Resource Locator）：Web上で取得したいWebページなどの情報源を示すための表記方法
+  - URI（Uniform Resource Identifier）:情報源を一意に示せるようにしたもの
+  - **CGI**（Common Gateway Interface）：Webブラウザからの要求に対して、Webサーバが外部のプログラムを呼び出し、その結果を、HTTPを介してWebブラウザに返す仕組み
+  - **MIME**（Multipurpose Internet Mail Extension）：電子メールの規格を拡張して、さまざまな形式を扱えるようにした規格
+    - S/MIME（Secure/MIME）：暗号化と署名をする仕組みを加えた規格
+  - メールヘッダ：SMTPでメールを送信する際、メール本文のデータに加えて付加されるさまざまな制御情報
+  - SMTP-AUTH：メールの送信者を送信サーバが認証する方法
+  - SPF（Sender Policy Framework）：送信ドメイン認証情報
+- 回線に関する計算
+  - bps（bit per second）：1秒あたりに転送されるビット数を表したもの
+
+> 「MIME」とくれば「テキストだけでなく、漢字や音声、画像なども扱える規格」
