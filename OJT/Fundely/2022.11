@@ -1,10 +1,11 @@
 ## 2022/11/22
-GitLab
-ローカルクローン
-bash zsh
-source tree
-dmpファイル
-nodebrew npm yarn
-公開鍵　秘密鍵
-PATH
-Global Local Shell
+GitLabからローカルへクローン
+bashとzshの違い
+SourceTreeを用いたコミット
+dmpファイルとは
+Ruby（Rails）のバージョン指定
+rbenvインストール
+nodebrew npm yarnのインストール
+公開鍵と秘密鍵の設定
+PATHについて
+Global/Local/Shellの違いについて
