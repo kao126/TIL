@@ -9,3 +9,14 @@ nodebrew npm yarnのインストール
 公開鍵と秘密鍵の設定
 PATHについて
 Global/Local/Shellの違いについて
+
+
+## 2022/11/28
+ローカル開発環境構築の復習
+node_modulesとは
+Postgresqlの構造
+cat vi open
+grep find
+postgresql roll superuser password
+webpacker
+yarn npm　違い
